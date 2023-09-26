@@ -1,0 +1,11 @@
+{
+  "main": "./dist/starter.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "vitest": "^0.34.5"
+  }
+}
